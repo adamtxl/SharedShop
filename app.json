@@ -31,6 +31,7 @@
     ],
     "experiments": {
       "typedRoutes": true
+<<<<<<< HEAD
     },
     "extra": {
       "router": {
@@ -41,5 +42,8 @@
       }
     },
     "owner": "adamtxl"
+=======
+    }
+>>>>>>> 8d887b2 (Initial commit)
   }
 }
